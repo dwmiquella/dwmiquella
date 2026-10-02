@@ -1,10 +1,10 @@
 ## Hey there /ᐠ. .ᐟ\ฅ
 
-I'm Derek, an Artificial Intelligence Undergrad @ UC San Diego
+I'm Derek, an Artificial Intelligence undergraduate @ UC San Diego
 
-I design and build products end to end, with a focus on machine learning systems, practical software, and video game extensions. Most projects are built with 
+I design and build products end to end, with a focus on machine learning systems, practical software, and video game extensions. Most projects are built with ___
 
-Fun facts
+**Fun facts**
  
  • I'm diamond in League of Legends & Valorant
  
